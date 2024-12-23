@@ -1,0 +1,6 @@
+laptop - 50k
+mobile - 40k
+bike - 95k
+trip - 75k
+ipad - 80k
+branded watch - 67k

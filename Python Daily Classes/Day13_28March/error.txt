@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "C:\Users\ayush\Documents\Persistent Training\python_tut\Python Daily Classes\Day13_28March\4_sys_stderr_demo.py", line 7, in <module>
+    print(nosuchvar) #error gets printed in file error.txt
+          ^^^^^^^^^
+NameError: name 'nosuchvar' is not defined

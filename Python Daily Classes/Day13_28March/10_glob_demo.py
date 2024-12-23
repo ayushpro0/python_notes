@@ -1,0 +1,7 @@
+"""
+glob - this module provides a function for making file lists from directory wildcards searches
+"""
+
+import glob
+
+print("All file listing with extension py :\n", glob.glob('*.py') )

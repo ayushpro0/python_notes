@@ -1,0 +1,13 @@
+Portuguese:Brazil
+Franch:Cameroon,Djibout,Equatorial Guinea,France 
+Chinese:China
+Vietnamese:Vietnam
+German:Germany 
+English:United Kingdom,United States,Fiji,Canada,Ireland 
+Japanese:Japan 
+Greek:Greece
+Indian:India 
+Spanish:Venezuela,Argentina,Honduras 
+Arabic:Yemen, Bahrain 
+Hungerian:Hungary 
+Italian:Italy
